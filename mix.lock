@@ -1,0 +1,3 @@
+%{
+  "ex_rlp": {:hex, :ex_rlp, "0.5.1", "02494d9e11283f2d2a0a702ecfa8fae2ffd27307a789c26f5fc2b6ec887e36b0", [:mix], [], "hexpm"},
+}
